@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://50.19.132.49:8081/engrcecilia/repository/chi-releases/</url>
+	      <url>http://34.224.38.238:8081/engrcecilia/repository/intereleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://50.19.132.49:8081/engrcecilia/repository/ch-snapshots/</url>
+	      <url>http://34.224.38.238:8081/engrcecilia/repository/intersnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
